@@ -81,19 +81,6 @@ I enjoy exploring modern web technologies and turning what I learn into practica
 
 ---
 
-## 🚀 Learning Projects
-
-### 📰 [The Insight News](https://github.com/iftekharm-alasif/The-Insight-News)
-
-A modern news website built while learning **Next.js, TypeScript, API integration and responsive UI development**.
-
-**Technologies:**
-Next.js · TypeScript · Tailwind CSS · REST API
-
-🔗 **Repository:** [The Insight News](https://github.com/iftekharm-alasif/The-Insight-News)
-
----
-
 ### 🏋️ [FIT-LOG — Assignment 6](https://github.com/iftekharm-alasif/FIT-LOG-Assignment-6)
 
 A workout tracking web application built as part of my learning journey with **Next.js, TypeScript and REST API integration**.
