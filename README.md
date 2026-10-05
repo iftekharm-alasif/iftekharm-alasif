@@ -2,7 +2,7 @@
   <img width="2048" height="768" alt="GitHub Profile Banner" src="https://github.com/user-attachments/assets/48729b44-a23d-45cc-b928-0f2a6760a1db" />
 </p>
 
-<h1 align="center">Iftekhar Mahamud Al Asif</h1>
+<h1 align="center"> 𝑰𝒇𝒕𝒆𝒌𝒉𝒂𝒓 𝑴𝒂𝒉𝒂𝒎𝒖𝒅 𝑨𝒍 𝑨𝒔𝒊𝒇</h1>
 
 <p align="center">
   <strong>Full Stack Web Developer</strong>
