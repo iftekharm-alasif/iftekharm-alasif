@@ -5,7 +5,7 @@
 <h1 align="center"> 𝑰𝒇𝒕𝒆𝒌𝒉𝒂𝒓 𝑴𝒂𝒉𝒂𝒎𝒖𝒅 𝑨𝒍 𝑨𝒔𝒊𝒇</h1>
 
 <p align="center">
-  <strong>Full Stack Web Developer</strong>
+  <strong>Aspiring Full Stack Web Developer</strong>
 </p>
 
 <p align="center">
